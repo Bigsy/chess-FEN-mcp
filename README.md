@@ -94,7 +94,7 @@ Fen {
 ## Development
 
 ```bash
-git clone <repository>
+git clone
 cd chess-fen-mcp
 npm install
 npm run dev
