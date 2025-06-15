@@ -1,11 +1,11 @@
 # Chess FEN MCP Server
 
-A Model Context Protocol (MCP) server that provides chess FEN notation visualization capabilities.
+A Model Context Protocol (MCP) server that provides chess FEN notation validation and visualization capabilities.
 
 ## Features
 
 - Convert FEN (Forsyth-Edwards Notation) strings to ASCII chess board visualizations
-- Easy integration with MCP-compatible AI assistants
+- Easy integration with MCP-compatible AI assistants allowing them to validate their generated FEN strings
 - Installable via npx
 
 ## Installation
